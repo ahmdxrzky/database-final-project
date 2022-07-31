@@ -15,7 +15,8 @@ Build a database-based simple website that allow hospital's employee to manage r
 Script of database can be accessed [here](https://github.com/ahmdxrzky/database-final-project/blob/main/db_apotek.sql).
 * Create the database
 * Create tables within the database
-* Create view routine
+* Create view routine <br>
+
 Scripts and assets for the website aren't fully worked by my team. Most of it are inspired from my teaching assistant's guidance, so I don't claim it as mine. It is uploaded just for completeness for the project, so others can run it too. Those can be accessed [here](https://github.com/ahmdxrzky/database-final-project/tree/main/apotek)
 * Front-end view
 * Back-end view
