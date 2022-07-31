@@ -9,7 +9,7 @@ Problem being highlighted in this project is in **Healthcare** domain. This proj
 #### Goal ####
 "Build a website that arrange medical history of patients."
 #### Solution Statements ####
-Build a database-based simple website that allow hospital's employee to manage records of patients' medical history.
+Build a simple database-based website that allow hospital's employee to manage records of patients' medical history.
 
 ## Documents ##
 Script of database can be accessed [here](https://github.com/ahmdxrzky/database-final-project/blob/main/db_apotek.sql).
